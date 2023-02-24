@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaleem</h1>
-<h3 align="center">I'm working with Web devoloment and machine learning related technologies</h3>
+<h3 align="center">I'm working with Web devoloment technologies inc.. 
+React-Redux, Next JS/ MUI5, Tailwind, SCSS, Modern Javascript ES6+, CSS, HTML</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
