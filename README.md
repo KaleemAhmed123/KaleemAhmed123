@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kaleem</h1>
-<h3 align="left">Skilled in web technologies Including - <br/>
+<h3 align="left">Skilled in web technologies Including - <br/></h3>
 <p></p>
-HTML, CSS, SCSS, Git, Modern JavaScript / ES6+, React-Redux / MUI5 / Tailwind /APIs / <br/> Node.JS / Express.JS, MongoDB, and building stuffs using these.
+<p>HTML, CSS, SCSS, Git, Modern JavaScript / ES6+, React-Redux / MUI5 / Tailwind /APIs / <br/> Node.JS / Express.JS, MongoDB, and building stuffs using these.</p>
 <hr/>
 Having sound knowledge of Data Structures and Algorithms, <br/> solved over 600 coding problems on various platforms and improving myself everyday .
 <p></p>
 Leetcode profile - https://leetcode.com/Kaleem_Ahmed/ <br/>
 GeeksForGeeks profile -
-https://auth.geeksforgeeks.org/user/kaleem530/L</h3>
+https://auth.geeksforgeeks.org/user/kaleem530/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
