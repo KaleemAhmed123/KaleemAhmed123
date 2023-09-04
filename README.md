@@ -3,11 +3,13 @@
 <p></p>
 <p>HTML, CSS, SCSS, Git, Modern JavaScript / ES6+, React-Redux / MUI5 / Tailwind /APIs / <br/> Node.JS / Express.JS, MongoDB, and building stuffs using these.</p>
 <hr/>
-Having sound knowledge of Data Structures and Algorithms, <br/> solved over 600 coding problems on various platforms and improving myself everyday .
+Having sound knowledge of Data Structures and Algorithms, <br/> solved over 1000+ coding problems on various platforms and improving myself everyday .
 <p></p>
 Leetcode profile - https://leetcode.com/Kaleem_Ahmed/ <br/>
 GeeksForGeeks profile -
 https://auth.geeksforgeeks.org/user/kaleem530/
+portfolio link -
+https://kaleem.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
