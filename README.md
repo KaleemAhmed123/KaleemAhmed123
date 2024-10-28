@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Kaleem</h1>
-<h3 align="left">Skilled in web technologies Including - <br/></h3>
-<p></p>
-<p>HTML, CSS, SCSS, Git, Modern JavaScript / ES6+, React-Redux / MUI5 / Tailwind /APIs / <br/> Node.JS / Express.JS, MongoDB, and building stuffs using these.</p>
-<hr/>
-Having sound knowledge of Data Structures and Algorithms, <br/> solved over 1000+ coding problems on various platforms and improving myself everyday .
-<p></p>
-Leetcode profile - https://leetcode.com/Kaleem_Ahmed/ <br/>
+<h1 align="left">Software developer at ASTREA IT Services (Salesforce Partner)</h1>
+<br/>
+<p>
+
+Skilled in technologies Including -
+
+Salesforce Admin, Flows, Apex Programming, Soql, VF Pages, Aura Components, Lightning Web Components, Custom Apis, Integration
+<br/> 
+Web technologies including Html/Css, JavaScript, Git, React, APIs, Node.JS, Express.JS, MongoDB, SQL.
+
+Having sound knowledge of Data Structures and Algorithms, solved 1600+ coding problems on various platforms and improving myself everyday .</p>
+
+<br/>
+Leetcode profile - https://leetcode.com/Kaleem_Ahmed/ <br/> <br/>
 GeeksForGeeks profile -
 https://auth.geeksforgeeks.org/user/kaleem530/
+<br/><br/>
 portfolio link -
 https://kaleem.netlify.app
 
